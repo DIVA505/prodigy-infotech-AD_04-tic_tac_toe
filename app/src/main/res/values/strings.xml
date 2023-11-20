@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">tic_tac_toe</string>
+    <string name="winner">Winner</string>
+    <string name="play_again">PLAY Again?</string>
+    <string name="empty_cell_0">Empty Cell 0</string>
+    <string name="empty_cell_1">Empty Cell 1</string>
+    <string name="empty_cell_2">Empty Cell 2</string>
+    <string name="empty_cell_3">Empty Cell 3</string>
+    <string name="empty_cell_4">Empty Cell 4</string>
+    <string name="empty_cell_5">Empty Cell 5</string>
+    <string name="empty_cell_6">Empty Cell 6</string>
+    <string name="empty_cell_7">Empty Cell 7</string>
+    <string name="empty_cell_8">Empty Cell 8</string>
+    <string name="red_player_wins">Red Player Wins</string>
+    <string name="green_player_wins">Green Player Wins</string>
+    <string name="draw">DRAW</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="player1_score" />
+    <string name="player2_score" />
+    <!-- Add unique descriptions for each ImageView -->
+
+    <!-- Add unique descriptions for each ImageView -->
+
+    <!-- Add unique descriptions for each ImageView -->
+
+    <!-- Add unique descriptions for each ImageView -->
+
+</resources>
